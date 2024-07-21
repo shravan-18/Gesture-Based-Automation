@@ -3,7 +3,7 @@
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-Computer_Vision-green.svg)
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 
-This project leverages the power of Raspberry Pi 4 and computer vision models to analyze gestures made by individuals in front of a Pi camera. The system plays audio media based on the detected gestures, aimed at improving education and respect among children in rural schools. The project was developed for the consultancy Innovative Implements Pvt Ltd, commissioned by the State Government of Tamil Nadu.
+This project leverages the power of Raspberry Pi 4 and computer vision models to analyze gestures made by individuals in front of a Pi camera. The system plays audio media based on the detected gestures, aimed at improving education and respect among children in rural schools. The project was developed for the State Government of Tamil Nadu via the consultancy Innovative Implements Pvt Ltd. to improve education in rural areas.
 
 ## Table of Contents
 - [Overview](#overview)
