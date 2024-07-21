@@ -112,7 +112,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgements
 - **Vellore Institute of Technology**: For their support and opportunity.
-- - **Aravintakshan S A**: For their contribution to this repository.
+- **Aravintakshan S A**: For their contribution to this repository.
 - **Open-Source Communities**: Developers of YOLO, TensorFlow, and OpenCV for their tools and resources.
 
 For more details, visit our [GitHub repository](https://github.com/shravan-18/Gesture-Based-Automation).
