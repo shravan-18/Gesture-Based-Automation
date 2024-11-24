@@ -99,10 +99,12 @@ We welcome contributions to enhance the functionality and performance of this pr
 5. **Commit your changes**
    ```bash
    git add .
-   git commit -m "Description of your changes"```
+   git commit -m "Description of your changes"
+   ```
 6. **Push to your Fork**
    ```bash
-   git push origin feature-name```
+   git push origin feature-name
+   ```
 7. **Create a Pull Request**
    - Go to the original repository and click the 'New Pull Request' button.
    - Provide a clear and descriptive title and description of your changes.
