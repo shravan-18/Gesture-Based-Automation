@@ -93,7 +93,8 @@ We welcome contributions to enhance the functionality and performance of this pr
    cd Gesture-Based-Automation```
 3. **Create a branch**
    ```bash
-   git checkout -b feature-name```
+   git checkout -b feature-name
+   ```
 4. **Make your changes**
    Implement your changes and make sure they are properly tested.
 5. **Commit your changes**
